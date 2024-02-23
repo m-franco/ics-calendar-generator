@@ -22,3 +22,8 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.dataTable{
+  margin:auto;
+  max-width: 600px;
+}
